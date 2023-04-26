@@ -1,0 +1,185 @@
+
+body{
+	background-color: white;
+
+}
+.section-1{
+	width:68%;
+	height:300px;
+	display:inline-block;
+
+}
+.evaluation{
+	width:10%;
+	float:left;
+	display:inline-block;
+	margin-top: 23px;
+}
+.interview select{
+	width:12%;
+	float:left;
+	display:inline-block;
+	padding:10px;
+	margin-top: 13px;
+
+}
+.learn select{
+	width:10%;
+	float:left;
+	display: inline-block;
+	padding:10px;
+	margin-top: 13px;
+
+}
+.analytics select{
+	width:13%;
+	float:left;
+	display: inline-block;
+	padding:10px;
+	margin-top: 13px;
+
+}
+.report{
+	width:12%;
+	float:left;
+	display: inline-block;
+	padding-left:10px;
+	margin-top: 23px;
+
+}
+
+.fa-bell{
+	width:5%;
+	height:50px;
+	float:left;
+	display: inline-block;
+	margin-top: 26px;
+	padding-left:10px;
+	font-size: 16px;
+
+}
+.fa-circle-user{
+	width:14px;
+	float:left;
+	display: inline-block;
+	margin-top: 26px;
+	font-size: 18px;
+
+}
+
+
+.name {
+
+	width:8%;
+	display: inline-block;
+	padding:10px;
+	margin-top: 12px;
+
+}
+select{
+	padding:3px;
+	font-size:14px;
+	border-style: none;
+	width:70px;
+}
+.row-2 h1{
+	margin-left: 180px;
+	margin-top: 65px;
+	
+}
+h3{
+	position:relative;
+	margin-top: 33px;
+	
+}
+hr{
+	border:1px solid lightgray;
+	margin-right: 210px;
+
+}
+.ques{
+	position:relative;
+	text-align: left;
+	margin-top: 35px;
+	font-size: 15px;
+
+}
+span{
+	color:skyblue;
+}
+.answer{
+	position:relative;
+	text-align: left;
+	margin-top: 38px;
+}
+.extra-info{
+	position:relative;
+	text-align: left;
+
+}
+.btn{
+	position:relative;
+	float:right;
+	margin-right: 200px;
+}
+input[type="button"]{
+	padding:8px;
+	width:160px;
+	background-color: deepskyblue;
+	border:1px hidden;
+	color:white;
+	font-size: 13px;
+	margin-top:25px;
+}
+
+input[type="url"]{
+	width:830px;
+	padding:10px;
+	position:relative;
+	border: 1px solid lightgrey;
+
+}
+::placeholder{
+	font-size: 15px;
+}
+
+
+
+.section-2{
+	width:32%;
+	height:300px;
+	float:left;
+	display:inline-block;
+}
+.first{
+	margin-left:200px ;
+	margin-top: 110px;
+	width:250px;
+	padding:20px;
+
+}
+
+div.second{
+	border:1px soild black;
+	width:250px;
+	display:block;
+	padding:20px;
+	background-color: white;
+	margin-left: 200px;
+}
+.second:hover{
+	background-color: #eee;
+}
+img{
+	width:200px;
+	height:50%;
+	margin-left: 200px;
+	margin-top: 10px;
+}
+.fa-angle-right{
+	float:right;
+}
+i.fa-angle-right{
+	background-color:#eee;
+
+}
